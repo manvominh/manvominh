@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manvominh
 - 👀 I’m interested in programing with C#, Web API, Blazor application, Entity Framework, ReactJS, Sql Microsoft Server, Azure Services, Clean Architecture, ...
-- 🌱 I’m currently working on NashTech.
+- 🌱 I’m currently working on NashTech Inc.
 - 💞️ I’m looking to collaborate on everybody in programing
 - 📫 Please reach me by dropping email on vominhman@gmailcom
 
